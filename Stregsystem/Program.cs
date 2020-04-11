@@ -11,6 +11,7 @@ namespace Stregsystem
             FileLoader loader = new FileLoader();
             loader.ProductLoader();
             loader.UserLoader();
+            StregsystemCLI.Runner();
             Console.WriteLine("Hello World!");
         }
     }
