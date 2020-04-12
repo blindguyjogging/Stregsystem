@@ -10,10 +10,7 @@ namespace Stregsystem
         delegate void userBalanceNotification(User user, decimal balance);
 
         userBalanceNotification Handler;
-        public static void DelegateMethod(User user)
-        {
-                //UI.MakePopup("Balance running low, currently: "+user.Balance);          
-        }
+        public delegate void UserBalanceNotification (User user);
 
         public Transaction(User user, double amount)
         {

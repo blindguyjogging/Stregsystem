@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Stregsystem
 {
     public interface IStregSystemUI
@@ -13,11 +14,11 @@ namespace Stregsystem
         void DisplayAdminCommandNotFoundMessage(string adminCommand);
         void DisplayUserBuysProduct(BuyTransaction transaction);
         void DisplayUserBuysProduct(int count, BuyTransaction transaction);
-        void Close();
         void DisplayInsufficientCash(User user, Product product);
         void DisplayGeneralError(string errorString);
         void Start();
-        delegate void StregsystemEvent(object source, EventArgs args);
+        void Close();
+        delegate void StregsystemEvent(object source,string arg);
         event StregsystemEvent CommandEntered;
     }
 }

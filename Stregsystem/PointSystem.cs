@@ -7,10 +7,30 @@ using System.Reflection;
 using System.Text.RegularExpressions;
 
 
-namespace Stregsystem.Logs
+namespace Stregsystem
 {
-    class PointSystem
+    public class PointSystem
     {
+        public PointSystem()
+        {
+            FileLoader loader = new FileLoader();
+            loader.ProductLoader();
+            loader.UserLoader();
+
+            int i = 1;
+            while (i + 1 < Product.ProductCount)
+            {
+                if (Product.ProductList[i].Active)
+                {
+                    ActiveProducts.Add(Product.ProductList[i]);
+                }
+
+                i++;
+            }
+        }
+
+        public List<Product> ActiveProducts = new List<Product>();
+
         public void BuyProduct(User user, Product product)
         {
             BuyTransaction buy = new BuyTransaction(user, product.Price, product);
@@ -27,24 +47,21 @@ namespace Stregsystem.Logs
         {
             return Product.ProductList[id];
         }
-        public void GetUsers(Func<User,bool>predicate) //////////////////////////////////////////////// NOT DONE /////////////////////////////////////////////////////////////////////////////////
+        public void GetUsers(Func<User, bool> predicate) //////////////////////////////////////////////// NOT DONE /////////////////////////////////////////////////////////////////////////////////
         {
-            
+
         }
         public User GetUserByUsername(string username)
         {
-            int i = 0;
-            while (User.UserList[i] != null && User.UserList[i].UserName != username)
+ 
+            if (User.UserList.Find(x => x.UserName.Equals(username)) == null)
             {
-                i++;
-            }
-            if (User.UserList[i] != null)
-            {
-                return User.UserList[i];
+                return User.UserList.Find(x => x.UserName.Equals(username));
             }
             else
-                Feedback.NullReference("Unable to find User of username: "+username);
+            {
                 return null;
+            }
         }
         public void GetTransactions(User user, int count)
         {
@@ -52,7 +69,7 @@ namespace Stregsystem.Logs
 
             if (user.Transactions.Count < count)
             {
-                Feedback.InvalidArg("Asked for "+count+" newest transactions, but user only has "+ user.Transactions.Count);
+                Feedback.InvalidArg("Asked for " + count + " newest transactions, but user only has " + user.Transactions.Count);
             }
             else
             {
@@ -61,29 +78,14 @@ namespace Stregsystem.Logs
                 {
                     if (Transactions[i] == null)
                     {
-                        Feedback.NullReference("Nullreference when trying to acces element"+i+"In Transactions");
+                        Feedback.NullReference("Nullreference when trying to acces element" + i + "In Transactions");
                     }
                     else
                     {
-                     Transactions[i] = user.Transactions[i];
+                        Transactions[i] = user.Transactions[i];
                     }
                 }
             }
-        }
-        public List<Product> ActiveProducts()
-        {
-            List<Product> activeproducts = new List<Product>();
-            int i = 1;
-            while (i <= Product.ProductCount)
-            {
-                if (Product.ProductList[i].Active)
-                {
-                    activeproducts.Add(Product.ProductList[i]);
-                }
-
-                i++;
-            }
-            return activeproducts;
         }
     }
 }

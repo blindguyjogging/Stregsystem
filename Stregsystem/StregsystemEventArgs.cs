@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Stregsystem
 {
-
-
-
+    public class StregsystemEventArgs : EventArgs
+    {
+        public string message;
+    }
 }

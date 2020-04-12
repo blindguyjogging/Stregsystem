@@ -1,4 +1,4 @@
-﻿using Stregsystem.LoadFiles;
+﻿using Stregsystem;
 using System;
 using System.Text.RegularExpressions;
 //20184639_Martin_Opal_Lykkegaard
@@ -8,11 +8,11 @@ namespace Stregsystem
     {
         static void Main(string[] args)
         {
-            FileLoader loader = new FileLoader();
-            loader.ProductLoader();
-            loader.UserLoader();
-            StregsystemCLI.Runner();
-            Console.WriteLine("Hello World!");
+            PointSystem system = new PointSystem();
+            StregsystemCLI ui = new StregsystemCLI(system);
+            StregsystemCommandParser control = new StregsystemCommandParser(system,ui);
+            ui.Start();
+            //ui.Close();
         }
     }
 }

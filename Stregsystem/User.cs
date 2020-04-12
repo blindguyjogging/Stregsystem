@@ -52,7 +52,7 @@ namespace Stregsystem
         string Email;
         public double Balance;
         Regex usernameRegex = new Regex(@"^[a-z0-9_]+$");
-        Regex emailRegex = new Regex(@"^[a-zA-Z0-9.,_]+@[a-zA-Z0-9,-]+\.[a-zA-Z0-9]+$");
+        Regex emailRegex = new Regex(@"^[a-zA-Z0-9.,_]+@[a-zA-Z0-9.,-]+\.[a-zA-Z0-9]+$");
 
 
 
@@ -61,24 +61,20 @@ namespace Stregsystem
         {
             return DateTime.Now + "User "+ID+"Registered with name "+FirstName + " " + LastName + ", and mail " + Email;
         }
-/*
+
         public override bool Equals(object obj)
         {
-            if (obj == null) return 1;
-
-            User otherUser = obj as User;
-            if (otherUser != null)
-                return this.ID.CompareTo(otherUser.ID);
-            else
-                throw new ArgumentException("Object is not of class User");
+            if (obj == null) return false;
+            User objAsUser = obj as User;
+            if (objAsUser == null) return false;
+            else return Equals(objAsUser);
         }
 
         public override int GetHashCode()
         {
-            int HashCode = 53749785 ;
-            return HashCode;
+            return ID;
         }
-*/
+
 
         public int CompareTo(object obj)
         {

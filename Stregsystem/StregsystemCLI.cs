@@ -2,74 +2,71 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Stregsystem
 {
     public class StregsystemCLI : IStregSystemUI
     {
-        public delegate void StregsystemEvent(object source, EventArgs args);
-
-        public bool running = false;
-        public event StregsystemEvent CommandEntered;
-
-        event IStregSystemUI.StregsystemEvent IStregSystemUI.CommandEntered
+        bool _running;
+        public StregsystemCLI(PointSystem ps)
         {
-            add
-            {
-                throw new NotImplementedException();
-            }
-
-            remove
-            {
-                throw new NotImplementedException();
-            }
+            pointsystem = ps;
         }
 
-        protected virtual void OnCommandEntered()
+        public PointSystem pointsystem;
+
+        string feedbackLine = "";
+
+        public event IStregSystemUI.StregsystemEvent CommandEntered;
+
+        public delegate void StregsystemEvent(object source, string arg);
+
+        protected virtual void OnCommandEntered(string command)
         {
             if (CommandEntered!= null)
             {
-                CommandEntered(this,EventArgs.Empty);
+                CommandEntered(this, command);
             }
         }
 
         public void Close()
         {
-            throw new NotImplementedException();
+            _running = false;
         }
 
         public void DisplayAdminCommandNotFoundMessage(string adminCommand)
         {
-            throw new NotImplementedException();
+            feedbackLine = "AdminCommand " + adminCommand + " was not recognized";
         }
 
         public void DisplayGeneralError(string errorString)
         {
-            throw new NotImplementedException();
+            feedbackLine = "Error concerning "+errorString+", try again";
         }
 
         public void DisplayInsufficientCash(User user, Product product)
         {
-            throw new NotImplementedException();
+            feedbackLine = user.UserName + "Does not have sufficient credit for product " + product.ID;
         }
 
         public void DisplayProductNotFound(string product)
         {
-            throw new NotImplementedException();
+            feedbackLine = "Product with ID = " + product + " was not found";
         }
 
         public void DisplayTooManyArgumentsError(string command)
         {
-            throw new NotImplementedException();
+            feedbackLine = "the input \""+command+ "\" holds too many arguments";
         }
 
         public void DisplayUserBuysProduct(BuyTransaction transaction)
         {
-            throw new NotImplementedException();
+            feedbackLine = "User just bought " +transaction.T_Product.Name;
         }
 
         public void DisplayUserBuysProduct(int count, BuyTransaction transaction)
         {
-            throw new NotImplementedException();
+            feedbackLine = "User just bought " +count+"x " + transaction.T_Product.Name;
         }
 
         public void DisplayUserInfo(User user)
@@ -79,36 +76,61 @@ namespace Stregsystem
 
         public void DisplayUserNotFound(string username)
         {
-            throw new NotImplementedException();
+            feedbackLine = "User \""+username + "\" could not be found, check spelling";
         }
 
         public void Start()
         {
-            Runner();
+            _running = true;
+            do
+            {
+                DrawMenu();
+                HandleInput();
+            } while (_running);
         }
-        public static void Runner()
+
+        public void HandleInput()
         {
-            Application.Init();
-
-            var top = Application.Top;
-            var window = new Window(new Rect(0, 1, top.Frame.Width, top.Frame.Height - 1), "Pointsystem");
-            top.Add(window);
-
-
-            window.Add(
-                new TextField(35, 2, 50, ""),
-                new Label(35, 1, "Please input your order like this:"),
-                new Label(6, 5, "---------------------------------------------------------------------------------------------------------")
-
+            string command = Console.ReadLine();
+            OnCommandEntered(command);
+        }
+        public void DrawMenu()
+        {
+            Console.Write("\n To quickbuy type \"'username' 'Product number'\" " +
+                "\n To multibuy type\"'username' 'amount' 'product number'\" " +
+                "\n To access user page type ONLY username " +
+                "\n - Spaces between username, number and amount are required, and order is fixed" +
+                "\n-----------------------------------------------------------------------------------------------------------\n");
+            for (int i = 0; i + 1 < pointsystem.ActiveProducts.Count; i++)
+            {
+                Console.WriteLine("{0,-5} {1,-35:N1} {2,-5} | {3,-5} {4,-35} {5,0}", pointsystem.ActiveProducts[i].ID, pointsystem.ActiveProducts[i].Name, pointsystem.ActiveProducts[i].Price, pointsystem.ActiveProducts[i + 1].ID, pointsystem.ActiveProducts[i + 1].Name, pointsystem.ActiveProducts[i + 1].Price);
+                i++;
+            }
+            Console.WriteLine(
+                "\n-----------------------------------------------------------------------------------------------------------\n");
+                 
+                Console.Write("                     "+feedbackLine+"\n-----------------------------------------------------------------------------------------------------------\n" +
+                "                                         Input: "
+                ) ;
+        }
+        public void DrawMenu(string message)
+        {
+            Console.Write("\n To quickbuy type \"'username' 'Product number'\" " +
+                "\n To multibuy type\"'username' 'amount' 'product number'\" " +
+                "\n To access user page type ONLY username " +
+                "\n - Spaces between username, number and amount are required, and order is fixed" +
+                "\n-----------------------------------------------------------------------------------------------------------\n");
+            for (int i = 0; i + 1 < pointsystem.ActiveProducts.Count; i++)
+            {
+                Console.WriteLine("{0,-5} {1,-35:N1} {2,-5} | {3,-5} {4,-35} {5,0}", pointsystem.ActiveProducts[i].ID, pointsystem.ActiveProducts[i].Name, pointsystem.ActiveProducts[i].Price, pointsystem.ActiveProducts[i + 1].ID, pointsystem.ActiveProducts[i + 1].Name, pointsystem.ActiveProducts[i + 1].Price);
+                i++;
+            }
+            Console.Write(
+                "\n-----------------------------------------------------------------------------------------------------------\n"
+                 + "                                                                                                      "
+               + "\n-----------------------------------------------------------------------------------------------------------\n" +
+                "                                         Input: "
                 );
-
-            Application.Run();
-        }
-
-        public string ProductWindow()
-        {
-
-            return "";
         }
     }
 }
