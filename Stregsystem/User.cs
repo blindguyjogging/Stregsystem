@@ -59,7 +59,7 @@ namespace Stregsystem
         override
         public string ToString()
         {
-            return DateTime.Now + "User "+ID+"Registered with name "+FirstName + " " + LastName + ", and mail " + Email;
+            return DateTime.Now +" "+ UserName +" Registered with name "+FirstName + " " + LastName + ", and mail " + Email;
         }
 
         public override bool Equals(object obj)

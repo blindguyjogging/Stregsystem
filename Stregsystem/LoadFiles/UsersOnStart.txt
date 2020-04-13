@@ -1,4 +1,4 @@
-﻿id,firstname,lastname,username,balance,email
+id,firstname,lastname,username,balance,email
 1,Nancy,Davolio,ndavo,40000,ndavo@sample.stregsystem.dk
 2,Andrew,Fuller,afull,32900,afull@sample.stregsystem.dk
 3,Janet,Leverling,jleve,5050,jleve@sample.stregsystem.dk
