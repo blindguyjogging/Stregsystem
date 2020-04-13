@@ -14,21 +14,6 @@ namespace Stregsystem
         public static string userfile = Path.Combine(basefolder, "Logs\\UserLogs.txt");
         public static string productfile = Path.Combine(basefolder, "Logs\\ProductLogs.txt");
 
-        public static void ClearLogs()
-        {
-            using (StreamWriter sw = new StreamWriter(userfile))
-            {
-                sw.Flush();
-            }
-            using (StreamWriter sw = new StreamWriter(productfile))
-            {
-                sw.Flush();
-            }
-            using (StreamWriter sw = new StreamWriter(transactionfile))
-            {
-                sw.Flush();
-            }
-        }
         public static void GenericLogger(string log, string path)
         {
             FileStream fs = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write);

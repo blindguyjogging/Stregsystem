@@ -13,10 +13,7 @@ namespace Stregsystem
     {
         public PointSystem()
         {
-            Logger.ClearLogs();
-            
             FileLoader loader = new FileLoader();
-
             loader.ProductLoader();
             loader.UserLoader();
 

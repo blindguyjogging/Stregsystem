@@ -11,13 +11,12 @@ namespace Stregsystem
     {
         string catalogue = Path.Combine(Logger.basefolder, "LoadFiles\\Catalogue.txt");
         string users = Path.Combine(Logger.basefolder, "LoadFiles\\UsersOnStart.txt");
-       
         public void ProductLoader()
         {
             using (StreamReader sr = new StreamReader(catalogue)) // Will search through file, loading 3 comma seperated words per. line
             {
                 sr.ReadLine(); // Consume description line
-                
+
                 while (!sr.EndOfStream)
                 {
                     string[] product = new string[5];
