@@ -1,0 +1,100 @@
+4/15/2020 4:27:20 PM Deposit transaction 0 For the amount of 100 was inserted by User 6
+4/15/2020 4:52:01 PM Deposit transaction 2 For the amount of 100 was inserted by User 6
+4/16/2020 Purchase transaction 0 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product Monster For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product Monster For the amount of 1200 was bought by User 6
+4/16/2020 Deposit transaction 0 For the amount of 2000 was inserted by User 6
+4/16/2020 Deposit transaction 0 For the amount of 2000 was inserted by User 6
+4/16/2020 Purchase transaction 1 of Product Monster For the amount of 1200 was bought by User 6
+4/16/2020 Deposit transaction 2 For the amount of 20000 was inserted by User 6
+4/16/2020 Purchase transaction 3 of Product Monster For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product Monster For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 6 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 6 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit transaction 1 For the amount of 3000 was inserted by User 6
+4/16/2020 Purchase transaction 2 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 2 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 0 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 0: 20000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 0: 20000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 0: 20000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 1: 20000 was inserted to 6
+4/16/2020 Purchase transaction 2 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 6: 20000 was inserted to 6
+4/16/2020 Purchase transaction 7 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 8 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 9 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 10 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 11 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Deposit 0: 20000 was inserted to 6
+4/16/2020 Deposit 1: 20000 was inserted to 6
+4/16/2020 Deposit 2: 20000 was inserted to 6
+4/16/2020 Purchase transaction 3 of Product ½L vand & kildevand excl. pant For the amount of 1200 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product Øl(f.eks. Thy, Guld, 47, T-FF) For the amount of 1000 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product Burn Energy For the amount of 1500 was bought by User 6
+4/16/2020 Purchase transaction 6 of Product Burn Energy For the amount of 1500 was bought by User 6
+4/16/2020 Purchase transaction 7 of Product Burn Energy For the amount of 1500 was bought by User 6
+4/16/2020 Purchase transaction 8 of Product Burn Energy For the amount of 1500 was bought by User 6
+4/16/2020 Purchase transaction 9 of Product Øl(f.eks. Thy, Guld, 47, T-FF) For the amount of 1000 was bought by User 6
+4/16/2020 Deposit 10: 20000 was inserted to 6
+4/16/2020 Deposit 1: 2000 was inserted to 6
+4/16/2020 Purchase transaction 3 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 1: 2000 was inserted to 6
+4/16/2020 Purchase transaction 3 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product Kaffe/Choko(1 kop) For the amount of 300 was bought by User 6
+4/16/2020 Deposit 0: 1199 was inserted to 6
+4/16/2020 Deposit 2: 1199 was inserted to 6
+4/16/2020 Purchase transaction 3 of Product ½L Vand incl. pant For the amount of 1350 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 30000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 2 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 30000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 2 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 30000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 2 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Purchase transaction 6 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Deposit 0: 30000 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Purchase transaction 2 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Purchase transaction 3 of Product Snack For the amount of 500 was bought by User 6
+4/16/2020 Purchase transaction 4 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Purchase transaction 6 of Product Øl(Tuborg/Classic/Carlsberg/Rød) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6
+4/16/2020 Deposit 2: 1049 was inserted to 6
+4/16/2020 Deposit 3: 100 was inserted to 6
+4/16/2020 Purchase transaction 4 of Product Øl(f.eks. Thy, Guld, 47, T-FF) For the amount of 1000 was bought by User 6
+4/16/2020 Purchase transaction 5 of Product Pant (1/2L flaske) For the amount of 150 was bought by User 6
+4/16/2020 Deposit 0: 1700 was inserted to 6
+4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6

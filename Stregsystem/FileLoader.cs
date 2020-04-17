@@ -24,21 +24,19 @@ namespace Stregsystem
                     string pattern = "\"*;\"*";
                     product = Regex.Split(sr.ReadLine(), pattern);
                     TrimAndSend(product);// trims date of its excess and illegal symbols, and then produces the product
-
                 }
             }
         }
-
         public void TrimAndSend( string[] words)
         {
 
             string name;
-            double price;
+            int price;
             bool active = false;
 
             name = Regex.Replace(words[1], "<.*?>", String.Empty);
 
-            price = double.Parse(words[2]);
+            price = Int32.Parse(words[2]);
 
             if (words[3] == "0")
             {
@@ -67,7 +65,7 @@ namespace Stregsystem
                     string pattern = ",";
                     string[] user = new string[5];
                     user = Regex.Split(sr.ReadLine(),pattern);
-                    new User(user[1], user[2], user[3], double.Parse(user[4]), user[5]);
+                    new User(user[1], user[2], user[3], Int32.Parse(user[4]), user[5]);
                 }
             }
         }

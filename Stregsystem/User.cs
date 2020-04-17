@@ -7,13 +7,13 @@ namespace Stregsystem
 {
     public class User : IComparable
     {
-        public User(string firstname, string lastname, string username,double balance, string email)
+        public User(string firstname, string lastname, string username,int balance, string email)
         {
             if (firstname != null) FirstName = firstname;
-            else Feedback.NullReference("User firstname in constructor is null");
+            else throw new ArgumentNullException("User firstname in constructor is null");
 
             if (lastname != null) LastName = lastname;
-            else Feedback.NullReference("User lastname in constructor is null");
+            else throw new ArgumentNullException("User lastname in constructor is null");
 
             if (usernameRegex.IsMatch(username) )
             {
@@ -38,7 +38,7 @@ namespace Stregsystem
             ID = userCount++;
             UserList.Add(this);
 
-            Logger.UserLog(ToString());
+            Logger.UserLog(DateTime.UtcNow+" User: "+ID+":"+ToString()+" was registered");
             
         }
         public static List<User> UserList = new List<User>();
@@ -46,20 +46,19 @@ namespace Stregsystem
 
         public List<Transaction> Transactions = new List<Transaction>();
         public int ID;
-        string FirstName;
-        string LastName;
+        public string FirstName;
+        public string LastName;
         public string UserName;
         string Email;
-        public double Balance;
+        public int Balance;
         Regex usernameRegex = new Regex(@"^[a-z0-9_]+$");
         Regex emailRegex = new Regex(@"^[a-zA-Z0-9.,_]+@[a-zA-Z0-9.,-]+\.[a-zA-Z0-9]+$");
-
 
 
         override
         public string ToString()
         {
-            return DateTime.Now + "User "+ID+"Registered with name "+FirstName + " " + LastName + ", and mail " + Email;
+            return "Name: "+FirstName+" "+LastName+" Email: "+Email;
         }
 
         public override bool Equals(object obj)

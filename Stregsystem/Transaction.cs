@@ -6,22 +6,12 @@ namespace Stregsystem
 {
     public abstract class Transaction
     {
-
-        delegate void userBalanceNotification(User user, decimal balance);
-
-        userBalanceNotification Handler;
-        public delegate void UserBalanceNotification (User user);
-
-        public Transaction(User user, double amount)
+        public Transaction(User user, int amount)
         {
-            if (user != null) T_User = user;
-            else Feedback.NullReference("User in transaction constructor is null");
-
-            Amount = amount;
-
-            Date = DateTime.Now.ToString();
-
+            T_User = user;
             ID = TransactionCounter++;
+            Date = DateTime.UtcNow.ToShortDateString();
+            Amount = amount;          
         }
 
         // Attributes
@@ -30,7 +20,8 @@ namespace Stregsystem
         public int ID;
         public User T_User; // renamed T_User, in order to avoid confusion and errorprone code with the object
         public string Date;
-        public double Amount;
+        public int Amount;
+        
         
         //Methods
         override
@@ -46,7 +37,7 @@ namespace Stregsystem
 
     public class InsertCashTransaction : Transaction
     {
-        public InsertCashTransaction(User user, double amount) : base(user, amount)
+        public InsertCashTransaction(User user, int amount) : base(user, amount)
         {
             Execute(); // all is loaded, transaction will now execute
         }
@@ -57,55 +48,32 @@ namespace Stregsystem
             Logger.TransactionLog(ToString());
             T_User.Transactions.Add(this);
 
-
         }
 
         public override string ToString()
         {
-            return Date+" Deposit transaction "+ID+" For the amount of "+Amount+" was inserted by User "+ T_User.ID;
+            return Date+" Deposit "+ID+": "+Amount+" was inserted to "+ T_User.ID;
         }
 
     }
 
     public class BuyTransaction : Transaction
     {
-        public BuyTransaction(User user, double amount, Product product) : base(user, amount)
+        public BuyTransaction(User user, int amount, Product product) : base(user, amount)
         {
-            if (product != null)
-            {
-                T_Product = product;
-                Execute(); // all is loaded, transaction will now execute
-            }
-            else
-                Feedback.NullReference("Product in buytransaction constructor is null");
+            T_Product = product;
         }
 
         //Attributes
         public Product T_Product; 
 
         //Methods
-        public override void Execute()
+        public override void Execute() // if i Arrive here, everything is validated for the purchase 
         {
-            if (T_User.Balance < Amount)
-            {
-                if (!T_Product.CanBeBoughtOnCredit)
-                {
-                Feedback.InsufficientCreditsException("User "+T_User.ID+"Tried to buy Product"+T_Product.Name+"But had insufficient funds");
-                }
-                else
-                {
-                    T_User.Balance -= Amount;
-                    Logger.TransactionLog(ToString());
-                    T_User.Transactions.Add(this);
-                }
-            }
-            else
-            {
+
                 T_User.Balance -= Amount;
                 Logger.TransactionLog(ToString());
                 T_User.Transactions.Add(this);
-
-            }
         }
 
         public override string ToString()

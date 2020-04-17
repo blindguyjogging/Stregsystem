@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Stregsystem
 {
-    public class Product
+    public class Product : IComparable
     {
-        public Product(string name, double price, bool active, bool canBeBoughtOnCredit)
+        public Product(string name, int price, bool active, bool canBeBoughtOnCredit)
         {
             if (name != null)
             {
@@ -15,20 +15,20 @@ namespace Stregsystem
             }
             else
             {
-                Feedback.NullReference("Product name in constructor is null");
+                throw new ArgumentNullException("Product name in constructor is null");
             }
             Price = price;
             Active = active;
             CanBeBoughtOnCredit = canBeBoughtOnCredit;
             ID = ProductCount++;
 
-            if (ID > 0)
+            if (ID > 1)
             {
                 ProductList.Add(this);
             }
             else
             {
-                ProductList.Skip(1);
+                ProductList.Add(null);
                 ProductList.Add(this);
             }
 
@@ -41,20 +41,31 @@ namespace Stregsystem
 
         public int ID;
         public string Name;
-        public double Price;
+        public int Price;
         public bool Active;
         public bool CanBeBoughtOnCredit;
 
         override
         public string ToString() 
         {
-            return  DateTime.Now +" Product "+ID+" called "+Name+" and costing "+Price+"dkk, was registered ";
+            return  DateTime.UtcNow +" Product "+ID+": "+Name+", for "+Price+"credits ";
+        }
+
+        public int CompareTo(object obj)
+        {
+            if (obj == null) return 1;
+
+            Product otherProduct = obj as Product;
+            if (otherProduct != null)
+                return this.ID.CompareTo(otherProduct.ID);
+            else
+                throw new ArgumentException("Object is not of class User");
         }
     }
 
     public class SeasonalProduct : Product
     {
-        public SeasonalProduct(string name, double price, bool active, bool canBeBoughtOnCredit, string seasonstartdate, string seasonenddate) : base(name, price, active, canBeBoughtOnCredit)
+        public SeasonalProduct(string name, int price, bool active, bool canBeBoughtOnCredit, string seasonstartdate, string seasonenddate) : base(name, price, active, canBeBoughtOnCredit)
         {
             SeasonStartDate = seasonstartdate;
             SeasonEndDate = seasonenddate;

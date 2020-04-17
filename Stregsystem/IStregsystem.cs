@@ -6,14 +6,15 @@ namespace Stregsystem
 {
     public interface IStregsystem
     {
-        List<Product> ActiveProducts();
-        void AddCreditsToAccount(User user, int amount);
-        void BuyProduct(User user, Product product);
+        void AddCreditsToAccount(string username, int amount);
+        BuyTransaction BuyProduct(User user, Product product);
         Product GetProductByID(int id);
-        IEnumerable<Transaction> GetTransactions(User user, int count);
+        List<Transaction> GetTransactions(User user, int count);
         User GetUsers(Func<User, bool> predicate);
         User GetUserByUsername(string username);
-        delegate void UserBalanceNotification(object source, EventArgs args);
+        void SetActiveStatus(string status, string productID);
+        void SetCreditStatus(string status, string productID);
+        delegate void UserBalanceNotification(object source, int balance);
         event UserBalanceNotification UserBalanceWarning;
     }
 

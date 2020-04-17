@@ -16,6 +16,7 @@ namespace Stregsystem
         void DisplayUserBuysProduct(int count, BuyTransaction transaction);
         void DisplayInsufficientCash(User user, Product product);
         void DisplayGeneralError(string errorString);
+        void DisplayCreditsAdded(string username, int amount);
         void Start();
         void Close();
         delegate void StregsystemEvent(object source,string arg);
