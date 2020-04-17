@@ -1,7 +1,4 @@
-﻿using Stregsystem;
-using System;
-using System.Text.RegularExpressions;
-//20184639_Martin_Opal_Lykkegaard
+﻿//20184639_Martin_Opal_Lykkegaard
 // in this project is also located a readme file, if curious about my own thought of this project, feel free to read, it isent very long!
 namespace Stregsystem
 {
@@ -9,9 +6,9 @@ namespace Stregsystem
     {
         static void Main(string[] args)
         {
-            PointSystem system = new PointSystem();
-            StregsystemCLI ui = new StregsystemCLI(system);
-            StregsystemCommandParser control = new StregsystemCommandParser(system,ui);
+            PointSystem pointsystem = new PointSystem();
+            StregsystemCLI ui = new StregsystemCLI(pointsystem);
+            StregsystemCommandParser control = new StregsystemCommandParser(pointsystem, ui);
             ui.Start();
         }
     }

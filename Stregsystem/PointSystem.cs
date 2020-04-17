@@ -1,13 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.IO;
-using System.Reflection;
-using System.Text.RegularExpressions;
 
 
-namespace Stregsystem 
+namespace Stregsystem
 {
     public class PointSystem : IStregsystem
     {
@@ -29,10 +24,10 @@ namespace Stregsystem
             }
         }
 
-        public List<Product> ActiveProducts = new List<Product>(); 
+        public List<Product> ActiveProducts = new List<Product>();
 
         public event IStregsystem.UserBalanceNotification UserBalanceWarning;
-        public delegate void UserBalanceNotification(object  source, int balance); // delegate to pass when user balance fall below critical levels
+        public delegate void UserBalanceNotification(object source, int balance); // delegate to pass when user balance fall below critical levels
         protected virtual void OnUserBalanceWarning(int balance)
         {
             UserBalanceWarning?.Invoke(this, balance);
@@ -41,7 +36,7 @@ namespace Stregsystem
         public BuyTransaction BuyProduct(User user, Product product) // first checks if user has enough credits for the purchase, if not checks if it can be bought on credit
         {
             BuyTransaction transaction = new BuyTransaction(user, product.Price, product);
-            if (transaction.T_User.Balance < product.Price) 
+            if (transaction.T_User.Balance < product.Price)
             {
                 if (!transaction.T_Product.CanBeBoughtOnCredit)
                 {
@@ -72,10 +67,11 @@ namespace Stregsystem
                 return null;
             }
         }
-        public User GetUsers(Func<User, bool> predicate)
+        public List<User> GetUsers(Func<User, bool> predicate) // not sure how this is implented, and ive had no use of it, but the logic is that it will look through the list and find all elements, where the delegate returns true
         {
+            List<User> list = User.UserList.FindAll(x => predicate(x));
 
-            return null;
+            return list;
         }
         public User GetUserByUsername(string username) // Finds a user specified by the predicate exists in the UserList, it is returned to the caller 
         {
@@ -93,20 +89,20 @@ namespace Stregsystem
         {
             if (user.Transactions.Count < count) // if there is not 10 transactions, we set the offset to the amount of transactions
             {
-                List<Transaction> transactions = user.Transactions.GetRange(user.Transactions.Count- user.Transactions.Count, user.Transactions.Count);
+                List<Transaction> transactions = user.Transactions.GetRange(user.Transactions.Count - user.Transactions.Count, user.Transactions.Count);
                 transactions.Reverse();
                 return transactions;
             }
             else // if there are more transactions than count parameter, we return the list using the parameter as offset
-            { 
-                List<Transaction> transactions = user.Transactions.GetRange(user.Transactions.Count-count,count); 
+            {
+                List<Transaction> transactions = user.Transactions.GetRange(user.Transactions.Count - count, count);
                 transactions.Reverse();
                 return transactions;
             }
         }
 
         public void SetActiveStatus(string status, string productID) // Will change the active status on a product, this is a helper menu, for the admin commands :activate and :
-            {
+        {
             Product product = GetProductByID(Int32.Parse(productID));
             if (status == ":activate")
             {

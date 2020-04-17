@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Stregsystem
 {
@@ -11,28 +9,28 @@ namespace Stregsystem
             T_User = user;
             ID = TransactionCounter++;
             Date = DateTime.UtcNow.ToShortDateString();
-            Amount = amount;          
+            Amount = amount;
         }
 
         // Attributes
         public static int TransactionCounter;
 
-        public int ID;
-        public User T_User; // renamed T_User, in order to avoid confusion and errorprone code with the object
-        public string Date;
-        public int Amount;
-        
-        
+        public int ID { get; private set; }
+        public User T_User { get; private set; } // renamed T_User, in order to avoid confusion and errorprone code with the object
+        public string Date { get; private set; }
+        public int Amount { get; private set; }
+
+
         //Methods
         override
         public string ToString()
         {
-            return ID+" " + T_User + " "+ Amount + " " + Date;
+            return ID + " " + T_User + " " + Amount + " " + Date;
         }
 
         public abstract void Execute(); // Main logic behind realising a transaction
-    
-        
+
+
     }
 
     public class InsertCashTransaction : Transaction
@@ -52,7 +50,7 @@ namespace Stregsystem
 
         public override string ToString()
         {
-            return Date+" Deposit "+ID+": "+Amount+" was inserted to "+ T_User.ID;
+            return Date + " Deposit " + ID + ": " + Amount + " was inserted to " + T_User.ID;
         }
 
     }
@@ -65,20 +63,20 @@ namespace Stregsystem
         }
 
         //Attributes
-        public Product T_Product; 
+        public Product T_Product;
 
         //Methods
         public override void Execute() // if i Arrive here, everything is validated for the purchase 
         {
 
-                T_User.Balance -= Amount;
-                Logger.TransactionLog(ToString());
-                T_User.Transactions.Add(this);
+            T_User.Balance -= Amount;
+            Logger.TransactionLog(ToString());
+            T_User.Transactions.Add(this);
         }
 
         public override string ToString()
         {
-            return Date+" Purchase transaction " + ID + " of Product " + T_Product.Name+ " For the amount of " + Amount + " was bought by User " + T_User.ID;
+            return Date + " Purchase transaction " + ID + " of Product " + T_Product.Name + " For the amount of " + Amount + " was bought by User " + T_User.ID;
         }
     }
 }

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-
-namespace Stregsystem
+﻿namespace Stregsystem
 {
     public interface IStregSystemUI
     {
@@ -19,7 +14,7 @@ namespace Stregsystem
         void DisplayCreditsAdded(string username, int amount);
         void Start();
         void Close();
-        delegate void StregsystemEvent(object source,string arg);
+        delegate void StregsystemEvent(object source, string arg);
         event StregsystemEvent CommandEntered;
     }
 }

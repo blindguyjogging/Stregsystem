@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 using System.Text.RegularExpressions;
-using System.Xml;
 
 namespace Stregsystem
 {
@@ -27,28 +24,28 @@ namespace Stregsystem
                 }
             }
         }
-        public void TrimAndSend( string[] words)
+        public void TrimAndSend(string[] words)
         {
 
             string name;
             int price;
             bool active = false;
 
-            name = Regex.Replace(words[1], "<.*?>", String.Empty);
+            name = Regex.Replace(words[1], "<.*?>", String.Empty); // removes html tags, by replacing all '<>' and their contets with emptystring
 
-            price = Int32.Parse(words[2]);
+            price = Int32.Parse(words[2]); // from string to int
 
-            if (words[3] == "0")
+            if (words[3] == "0") // checks active status
             {
                 active = false;
             }
-            else if(words[3] == "1")
+            else if (words[3] == "1")
             {
                 active = true;
             }
             else
             {
-                throw new Exception(words[3]);
+                throw new InvalidDataException("Incorrect data in active status arg of product, was :" + words[3]);
             }
 
             new Product(name, price, active, false);
@@ -64,7 +61,7 @@ namespace Stregsystem
                 {
                     string pattern = ",";
                     string[] user = new string[5];
-                    user = Regex.Split(sr.ReadLine(),pattern);
+                    user = Regex.Split(sr.ReadLine(), pattern);
                     new User(user[1], user[2], user[3], Int32.Parse(user[4]), user[5]);
                 }
             }

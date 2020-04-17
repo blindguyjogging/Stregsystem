@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.IO;
-using System.Reflection;
 
 namespace Stregsystem
 {
@@ -26,7 +22,7 @@ namespace Stregsystem
         public static void TransactionLog(string log)
         {
             GenericLogger(log, transactionfile);
-            
+
         }
 
         public static void UserLog(string log)

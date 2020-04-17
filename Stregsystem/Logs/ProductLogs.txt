@@ -15533,3 +15533,543 @@
 4/16/2020 11:30:31 PM Product 133: FLAN Sandwich lørdag frokost, for 3500credits 
 4/16/2020 11:30:31 PM Product 134: FLAN Chili con Carne Fredag aften, for 5000credits 
 4/16/2020 11:30:31 PM Product 135: Monster, for 1200credits 
+4/17/2020 12:20:18 AM Product 1: Diverse, for 100credits 
+4/17/2020 12:20:18 AM Product 2: ½L Letmælk, for 450credits 
+4/17/2020 12:20:18 AM Product 3: ¼L Letmælk, for 250credits 
+4/17/2020 12:20:18 AM Product 4: ¼L Skummetmælk, for 225credits 
+4/17/2020 12:20:18 AM Product 5: ¼L Kærnemælk, for 225credits 
+4/17/2020 12:20:18 AM Product 6: ¼L Øko Letmælk, for 275credits 
+4/17/2020 12:20:18 AM Product 7: ¼L Øko Skummetmælk, for 250credits 
+4/17/2020 12:20:18 AM Product 8: ½L Skummetmælk (2x¼), for 375credits 
+4/17/2020 12:20:18 AM Product 9: 1L Letmælk, for 600credits 
+4/17/2020 12:20:18 AM Product 10: ½L Kærnemælk (2x¼), for 525credits 
+4/17/2020 12:20:18 AM Product 11: ½L vand & kildevand excl. pant, for 1200credits 
+4/17/2020 12:20:18 AM Product 12: ¼L Sodavand, for 500credits 
+4/17/2020 12:20:18 AM Product 13: Øl(f.eks. Thy, Guld, 47, T-FF), for 1000credits 
+4/17/2020 12:20:18 AM Product 14: Øl(Tuborg/Classic/Carlsberg/Rød), for 650credits 
+4/17/2020 12:20:18 AM Product 15: Øl(Staropramen, Corona, Budweis), for 1500credits 
+4/17/2020 12:20:18 AM Product 16: Cocio, for 1600credits 
+4/17/2020 12:20:18 AM Product 17: ½L Matilde cacao, for 1350credits 
+4/17/2020 12:20:18 AM Product 18: ¼L Øko Sødmælk, for 300credits 
+4/17/2020 12:20:18 AM Product 19: ½L Øko Skummet (2x¼), for 475credits 
+4/17/2020 12:20:18 AM Product 20: 150ml Cultura, for 600credits 
+4/17/2020 12:20:18 AM Product 21: 200ml Mathilde Cacao, for 275credits 
+4/17/2020 12:20:18 AM Product 22: 1 Flaske Rødvin, for 5000credits 
+4/17/2020 12:20:18 AM Product 23: 1 Flaske Hvidvin, for 2500credits 
+4/17/2020 12:20:18 AM Product 24: 150ml Yoghurt, for 600credits 
+4/17/2020 12:20:18 AM Product 25: ¼L Øko Sødmælk, for 275credits 
+4/17/2020 12:20:18 AM Product 26: Popcorn, for 500credits 
+4/17/2020 12:20:18 AM Product 27: Chips, for 1500credits 
+4/17/2020 12:20:18 AM Product 28: Saltstænger, for 600credits 
+4/17/2020 12:20:18 AM Product 29: Øl(Tuborg Jul/Påske), for 650credits 
+4/17/2020 12:20:18 AM Product 30: Jolt, for 1000credits 
+4/17/2020 12:20:18 AM Product 31: Pant (1/2L flaske), for 150credits 
+4/17/2020 12:20:18 AM Product 32: Kaffe/Choko(1 kop), for 300credits 
+4/17/2020 12:20:18 AM Product 33: dummyproduct, for 2000credits 
+4/17/2020 12:20:18 AM Product 34: Nestea, for 1300credits 
+4/17/2020 12:20:18 AM Product 35: kaffe - ansat, for 1125credits 
+4/17/2020 12:20:18 AM Product 36: kaffe - stud, for 750credits 
+4/17/2020 12:20:18 AM Product 37: ½L Vand incl. pant, for 1350credits 
+4/17/2020 12:20:18 AM Product 38: Juice, for 1200credits 
+4/17/2020 12:20:18 AM Product 39: Ansat KAFFE(1 kop), for 0credits 
+4/17/2020 12:20:18 AM Product 40: Frisk luft v. BSS, for 100credits 
+4/17/2020 12:20:18 AM Product 41: Snaps, for 10000credits 
+4/17/2020 12:20:18 AM Product 42: Limfjordsporter, for 900credits 
+4/17/2020 12:20:18 AM Product 43: ½L drikkecultura, for 1500credits 
+4/17/2020 12:20:18 AM Product 44: Søm, for 500credits 
+4/17/2020 12:20:18 AM Product 45: ¼L Mælk, for 275credits 
+4/17/2020 12:20:18 AM Product 46: F-Julefrokost, for 11100credits 
+4/17/2020 12:20:18 AM Product 47: Carlsberg 47, for 800credits 
+4/17/2020 12:20:18 AM Product 48: F-sportsdag, for 1500credits 
+4/17/2020 12:20:18 AM Product 49: Kandidat betaling, for 50000credits 
+4/17/2020 12:20:18 AM Product 50: Kandidatfest - gæst, for 15000credits 
+4/17/2020 12:20:18 AM Product 51:  Fyttetur , for 33300credits 
+4/17/2020 12:20:18 AM Product 52: Chokoladebar, for 1000credits 
+4/17/2020 12:20:18 AM Product 53: Fisherman, for 12000credits 
+4/17/2020 12:20:18 AM Product 54: Ale No. 16, for 950credits 
+4/17/2020 12:20:18 AM Product 55: Kort fyttetur - 2 dage, for 22200credits 
+4/17/2020 12:20:18 AM Product 56: FØLsmagning, for 10000credits 
+4/17/2020 12:20:18 AM Product 57: F-bog (Se E1-214), for 1500credits 
+4/17/2020 12:20:18 AM Product 58: Slik, Haribo, for 800credits 
+4/17/2020 12:20:18 AM Product 59: Rustfri stålvogn, for 250000credits 
+4/17/2020 12:20:18 AM Product 60: Indoor footballsæson, for 5000credits 
+4/17/2020 12:20:18 AM Product 61: F-acking, for 0credits 
+4/17/2020 12:20:18 AM Product 62: F-Klub krus, for 5000credits 
+4/17/2020 12:20:18 AM Product 63: Drink, for 2000credits 
+4/17/2020 12:20:18 AM Product 64: 1 flaske vin, for 3000credits 
+4/17/2020 12:20:18 AM Product 65: Fadøl - Tuborg/Classic, for 1300credits 
+4/17/2020 12:20:18 AM Product 66: Fadøl - Julebryg, for 2100credits 
+4/17/2020 12:20:18 AM Product 67: Poelse med broed, for 800credits 
+4/17/2020 12:20:18 AM Product 68: Fransk Hotdog, for 1000credits 
+4/17/2020 12:20:18 AM Product 69: Somersby/Xide, for 1500credits 
+4/17/2020 12:20:18 AM Product 70: Æblemost, for 500credits 
+4/17/2020 12:20:18 AM Product 71: Æblemost m. en enkelt, for 800credits 
+4/17/2020 12:20:18 AM Product 72: Æblemost m. dobbelt, for 1500credits 
+4/17/2020 12:20:18 AM Product 73: Island TILBUD!, for 50000credits 
+4/17/2020 12:20:18 AM Product 74: Adm Gebyr, for 2000credits 
+4/17/2020 12:20:18 AM Product 75: KB Juleøl (hvidtøl), for 450credits 
+4/17/2020 12:20:18 AM Product 76: F (oel), for 900credits 
+4/17/2020 12:20:18 AM Product 77: Fadøl i personligt glas, for 1500credits 
+4/17/2020 12:20:18 AM Product 78: Dåseøl (Guinness & Kilkenny), for 1650credits 
+4/17/2020 12:20:18 AM Product 79: Lager/Special/Elefant, for 1000credits 
+4/17/2020 12:20:18 AM Product 80: Feaster, for 4500credits 
+4/17/2020 12:20:18 AM Product 81: 2xJuleøl, for 1000credits 
+4/17/2020 12:20:18 AM Product 82: Limfjordsporter Fad, for 1700credits 
+4/17/2020 12:20:18 AM Product 83: Famlefest, for 30000credits 
+4/17/2020 12:20:18 AM Product 84: Special Hyttetur, for 12500credits 
+4/17/2020 12:20:18 AM Product 85: Øko Humle/Porse Guld/Øko Påske, for 1000credits 
+4/17/2020 12:20:18 AM Product 86: Æ Kas Kurwand, for 23100credits 
+4/17/2020 12:20:18 AM Product 87: Bingo Plader, for 1000credits 
+4/17/2020 12:20:18 AM Product 88: 3x Bingo Plader, for 2500credits 
+4/17/2020 12:20:18 AM Product 89: Burn Shot, for 1400credits 
+4/17/2020 12:20:18 AM Product 90: Fames, for 1000credits 
+4/17/2020 12:20:18 AM Product 91: Red Bull, for 1500credits 
+4/17/2020 12:20:18 AM Product 92: Cult Cola / Cult, for 1200credits 
+4/17/2020 12:20:18 AM Product 93: F-sportsdag + gris, for 5500credits 
+4/17/2020 12:20:18 AM Product 94: ØKO Humle, for 850credits 
+4/17/2020 12:20:18 AM Product 95: Tuborg Lime Cut, for 800credits 
+4/17/2020 12:20:18 AM Product 96: Schweppes Ginger Ale, for 550credits 
+4/17/2020 12:20:18 AM Product 97: Budget Juice (250 ml), for 400credits 
+4/17/2020 12:20:18 AM Product 98: Fastelavn, for 1500credits 
+4/17/2020 12:20:18 AM Product 99: BEO*/Copenhagen, for 1100credits 
+4/17/2020 12:20:18 AM Product 100: One EngergyDrink, for 900credits 
+4/17/2020 12:20:18 AM Product 101: X-Ray, for 700credits 
+4/17/2020 12:20:18 AM Product 102: F-Kult Meat Pie, for 4800credits 
+4/17/2020 12:20:18 AM Product 103: morgan + cola, for 500credits 
+4/17/2020 12:20:18 AM Product 104: Fadøl normal/påske (sw system), for 1100credits 
+4/17/2020 12:20:18 AM Product 105: Burn Energy, for 1500credits 
+4/17/2020 12:20:18 AM Product 106: Fragelse, for 6900credits 
+4/17/2020 12:20:18 AM Product 107: Vodka, for 500credits 
+4/17/2020 12:20:18 AM Product 108: Julemumme - Kongens Bryghus, for 3600credits 
+4/17/2020 12:20:18 AM Product 109: Jakobsen - Golden naked (Tilbud), for 1000credits 
+4/17/2020 12:20:18 AM Product 110: Carlsberg Christmas Ale, for 3100credits 
+4/17/2020 12:20:18 AM Product 111: Gratis FooBar, for 0credits 
+4/17/2020 12:20:18 AM Product 112: Ølkrus, for 2000credits 
+4/17/2020 12:20:18 AM Product 113: HARBOE - ½L Vand excl. pant, for 500credits 
+4/17/2020 12:20:18 AM Product 114: Juice 1,5L, for 1500credits 
+4/17/2020 12:20:18 AM Product 115: Kakao 1L, for 1000credits 
+4/17/2020 12:20:18 AM Product 116: Juice 1,5L, for 1200credits 
+4/17/2020 12:20:18 AM Product 117: Gin, for 500credits 
+4/17/2020 12:20:18 AM Product 118: FredagsFranskbrød, for 0credits 
+4/17/2020 12:20:18 AM Product 119: Fadøl(Jul) i personligt glas, for 1750credits 
+4/17/2020 12:20:18 AM Product 120: 24 x 0,5 L sodavand uden pant, for 28800credits 
+4/17/2020 12:20:18 AM Product 121: Corona Extra & Franziskaner Dunk, for 1500credits 
+4/17/2020 12:20:18 AM Product 122: Budget kildevand incl. pant, for 600credits 
+4/17/2020 12:20:18 AM Product 123: F-dag, for 500credits 
+4/17/2020 12:20:18 AM Product 124: Fadøl i kande (2 L), for 6000credits 
+4/17/2020 12:20:18 AM Product 125: Snack, for 500credits 
+4/17/2020 12:20:18 AM Product 126: Konsulent for en aften, for 0credits 
+4/17/2020 12:20:18 AM Product 127:  Brød , for 500credits 
+4/17/2020 12:20:18 AM Product 128: F-LAN, for 4000credits 
+4/17/2020 12:20:18 AM Product 129: Cider , for 1500credits 
+4/17/2020 12:20:18 AM Product 130: Alkohol (Snaps/shots), for 10000credits 
+4/17/2020 12:20:18 AM Product 131: 1,5L vand excl. pant, for 1200credits 
+4/17/2020 12:20:18 AM Product 132: Kamstrup Foobar, for 0credits 
+4/17/2020 12:20:18 AM Product 133: FLAN Sandwich lørdag frokost, for 3500credits 
+4/17/2020 12:20:18 AM Product 134: FLAN Chili con Carne Fredag aften, for 5000credits 
+4/17/2020 12:20:18 AM Product 135: Monster, for 1200credits 
+4/17/2020 1:06:10 AM Product 1: Diverse, for 100credits 
+4/17/2020 1:06:10 AM Product 2: ½L Letmælk, for 450credits 
+4/17/2020 1:06:10 AM Product 3: ¼L Letmælk, for 250credits 
+4/17/2020 1:06:10 AM Product 4: ¼L Skummetmælk, for 225credits 
+4/17/2020 1:06:10 AM Product 5: ¼L Kærnemælk, for 225credits 
+4/17/2020 1:06:10 AM Product 6: ¼L Øko Letmælk, for 275credits 
+4/17/2020 1:06:10 AM Product 7: ¼L Øko Skummetmælk, for 250credits 
+4/17/2020 1:06:10 AM Product 8: ½L Skummetmælk (2x¼), for 375credits 
+4/17/2020 1:06:10 AM Product 9: 1L Letmælk, for 600credits 
+4/17/2020 1:06:10 AM Product 10: ½L Kærnemælk (2x¼), for 525credits 
+4/17/2020 1:06:10 AM Product 11: ½L vand & kildevand excl. pant, for 1200credits 
+4/17/2020 1:06:10 AM Product 12: ¼L Sodavand, for 500credits 
+4/17/2020 1:06:10 AM Product 13: Øl(f.eks. Thy, Guld, 47, T-FF), for 1000credits 
+4/17/2020 1:06:10 AM Product 14: Øl(Tuborg/Classic/Carlsberg/Rød), for 650credits 
+4/17/2020 1:06:10 AM Product 15: Øl(Staropramen, Corona, Budweis), for 1500credits 
+4/17/2020 1:06:10 AM Product 16: Cocio, for 1600credits 
+4/17/2020 1:06:10 AM Product 17: ½L Matilde cacao, for 1350credits 
+4/17/2020 1:06:10 AM Product 18: ¼L Øko Sødmælk, for 300credits 
+4/17/2020 1:06:10 AM Product 19: ½L Øko Skummet (2x¼), for 475credits 
+4/17/2020 1:06:10 AM Product 20: 150ml Cultura, for 600credits 
+4/17/2020 1:06:10 AM Product 21: 200ml Mathilde Cacao, for 275credits 
+4/17/2020 1:06:10 AM Product 22: 1 Flaske Rødvin, for 5000credits 
+4/17/2020 1:06:10 AM Product 23: 1 Flaske Hvidvin, for 2500credits 
+4/17/2020 1:06:10 AM Product 24: 150ml Yoghurt, for 600credits 
+4/17/2020 1:06:10 AM Product 25: ¼L Øko Sødmælk, for 275credits 
+4/17/2020 1:06:10 AM Product 26: Popcorn, for 500credits 
+4/17/2020 1:06:10 AM Product 27: Chips, for 1500credits 
+4/17/2020 1:06:10 AM Product 28: Saltstænger, for 600credits 
+4/17/2020 1:06:10 AM Product 29: Øl(Tuborg Jul/Påske), for 650credits 
+4/17/2020 1:06:10 AM Product 30: Jolt, for 1000credits 
+4/17/2020 1:06:10 AM Product 31: Pant (1/2L flaske), for 150credits 
+4/17/2020 1:06:10 AM Product 32: Kaffe/Choko(1 kop), for 300credits 
+4/17/2020 1:06:10 AM Product 33: dummyproduct, for 2000credits 
+4/17/2020 1:06:10 AM Product 34: Nestea, for 1300credits 
+4/17/2020 1:06:10 AM Product 35: kaffe - ansat, for 1125credits 
+4/17/2020 1:06:10 AM Product 36: kaffe - stud, for 750credits 
+4/17/2020 1:06:10 AM Product 37: ½L Vand incl. pant, for 1350credits 
+4/17/2020 1:06:10 AM Product 38: Juice, for 1200credits 
+4/17/2020 1:06:10 AM Product 39: Ansat KAFFE(1 kop), for 0credits 
+4/17/2020 1:06:10 AM Product 40: Frisk luft v. BSS, for 100credits 
+4/17/2020 1:06:10 AM Product 41: Snaps, for 10000credits 
+4/17/2020 1:06:10 AM Product 42: Limfjordsporter, for 900credits 
+4/17/2020 1:06:10 AM Product 43: ½L drikkecultura, for 1500credits 
+4/17/2020 1:06:10 AM Product 44: Søm, for 500credits 
+4/17/2020 1:06:10 AM Product 45: ¼L Mælk, for 275credits 
+4/17/2020 1:06:10 AM Product 46: F-Julefrokost, for 11100credits 
+4/17/2020 1:06:10 AM Product 47: Carlsberg 47, for 800credits 
+4/17/2020 1:06:10 AM Product 48: F-sportsdag, for 1500credits 
+4/17/2020 1:06:10 AM Product 49: Kandidat betaling, for 50000credits 
+4/17/2020 1:06:10 AM Product 50: Kandidatfest - gæst, for 15000credits 
+4/17/2020 1:06:10 AM Product 51:  Fyttetur , for 33300credits 
+4/17/2020 1:06:10 AM Product 52: Chokoladebar, for 1000credits 
+4/17/2020 1:06:10 AM Product 53: Fisherman, for 12000credits 
+4/17/2020 1:06:10 AM Product 54: Ale No. 16, for 950credits 
+4/17/2020 1:06:10 AM Product 55: Kort fyttetur - 2 dage, for 22200credits 
+4/17/2020 1:06:10 AM Product 56: FØLsmagning, for 10000credits 
+4/17/2020 1:06:10 AM Product 57: F-bog (Se E1-214), for 1500credits 
+4/17/2020 1:06:10 AM Product 58: Slik, Haribo, for 800credits 
+4/17/2020 1:06:10 AM Product 59: Rustfri stålvogn, for 250000credits 
+4/17/2020 1:06:10 AM Product 60: Indoor footballsæson, for 5000credits 
+4/17/2020 1:06:10 AM Product 61: F-acking, for 0credits 
+4/17/2020 1:06:10 AM Product 62: F-Klub krus, for 5000credits 
+4/17/2020 1:06:10 AM Product 63: Drink, for 2000credits 
+4/17/2020 1:06:10 AM Product 64: 1 flaske vin, for 3000credits 
+4/17/2020 1:06:10 AM Product 65: Fadøl - Tuborg/Classic, for 1300credits 
+4/17/2020 1:06:10 AM Product 66: Fadøl - Julebryg, for 2100credits 
+4/17/2020 1:06:10 AM Product 67: Poelse med broed, for 800credits 
+4/17/2020 1:06:10 AM Product 68: Fransk Hotdog, for 1000credits 
+4/17/2020 1:06:10 AM Product 69: Somersby/Xide, for 1500credits 
+4/17/2020 1:06:10 AM Product 70: Æblemost, for 500credits 
+4/17/2020 1:06:10 AM Product 71: Æblemost m. en enkelt, for 800credits 
+4/17/2020 1:06:10 AM Product 72: Æblemost m. dobbelt, for 1500credits 
+4/17/2020 1:06:10 AM Product 73: Island TILBUD!, for 50000credits 
+4/17/2020 1:06:10 AM Product 74: Adm Gebyr, for 2000credits 
+4/17/2020 1:06:10 AM Product 75: KB Juleøl (hvidtøl), for 450credits 
+4/17/2020 1:06:10 AM Product 76: F (oel), for 900credits 
+4/17/2020 1:06:10 AM Product 77: Fadøl i personligt glas, for 1500credits 
+4/17/2020 1:06:10 AM Product 78: Dåseøl (Guinness & Kilkenny), for 1650credits 
+4/17/2020 1:06:10 AM Product 79: Lager/Special/Elefant, for 1000credits 
+4/17/2020 1:06:10 AM Product 80: Feaster, for 4500credits 
+4/17/2020 1:06:10 AM Product 81: 2xJuleøl, for 1000credits 
+4/17/2020 1:06:10 AM Product 82: Limfjordsporter Fad, for 1700credits 
+4/17/2020 1:06:10 AM Product 83: Famlefest, for 30000credits 
+4/17/2020 1:06:10 AM Product 84: Special Hyttetur, for 12500credits 
+4/17/2020 1:06:10 AM Product 85: Øko Humle/Porse Guld/Øko Påske, for 1000credits 
+4/17/2020 1:06:10 AM Product 86: Æ Kas Kurwand, for 23100credits 
+4/17/2020 1:06:10 AM Product 87: Bingo Plader, for 1000credits 
+4/17/2020 1:06:10 AM Product 88: 3x Bingo Plader, for 2500credits 
+4/17/2020 1:06:10 AM Product 89: Burn Shot, for 1400credits 
+4/17/2020 1:06:10 AM Product 90: Fames, for 1000credits 
+4/17/2020 1:06:10 AM Product 91: Red Bull, for 1500credits 
+4/17/2020 1:06:10 AM Product 92: Cult Cola / Cult, for 1200credits 
+4/17/2020 1:06:10 AM Product 93: F-sportsdag + gris, for 5500credits 
+4/17/2020 1:06:10 AM Product 94: ØKO Humle, for 850credits 
+4/17/2020 1:06:10 AM Product 95: Tuborg Lime Cut, for 800credits 
+4/17/2020 1:06:10 AM Product 96: Schweppes Ginger Ale, for 550credits 
+4/17/2020 1:06:10 AM Product 97: Budget Juice (250 ml), for 400credits 
+4/17/2020 1:06:10 AM Product 98: Fastelavn, for 1500credits 
+4/17/2020 1:06:10 AM Product 99: BEO*/Copenhagen, for 1100credits 
+4/17/2020 1:06:10 AM Product 100: One EngergyDrink, for 900credits 
+4/17/2020 1:06:10 AM Product 101: X-Ray, for 700credits 
+4/17/2020 1:06:10 AM Product 102: F-Kult Meat Pie, for 4800credits 
+4/17/2020 1:06:10 AM Product 103: morgan + cola, for 500credits 
+4/17/2020 1:06:10 AM Product 104: Fadøl normal/påske (sw system), for 1100credits 
+4/17/2020 1:06:10 AM Product 105: Burn Energy, for 1500credits 
+4/17/2020 1:06:10 AM Product 106: Fragelse, for 6900credits 
+4/17/2020 1:06:10 AM Product 107: Vodka, for 500credits 
+4/17/2020 1:06:10 AM Product 108: Julemumme - Kongens Bryghus, for 3600credits 
+4/17/2020 1:06:10 AM Product 109: Jakobsen - Golden naked (Tilbud), for 1000credits 
+4/17/2020 1:06:10 AM Product 110: Carlsberg Christmas Ale, for 3100credits 
+4/17/2020 1:06:10 AM Product 111: Gratis FooBar, for 0credits 
+4/17/2020 1:06:10 AM Product 112: Ølkrus, for 2000credits 
+4/17/2020 1:06:10 AM Product 113: HARBOE - ½L Vand excl. pant, for 500credits 
+4/17/2020 1:06:10 AM Product 114: Juice 1,5L, for 1500credits 
+4/17/2020 1:06:10 AM Product 115: Kakao 1L, for 1000credits 
+4/17/2020 1:06:10 AM Product 116: Juice 1,5L, for 1200credits 
+4/17/2020 1:06:10 AM Product 117: Gin, for 500credits 
+4/17/2020 1:06:10 AM Product 118: FredagsFranskbrød, for 0credits 
+4/17/2020 1:06:10 AM Product 119: Fadøl(Jul) i personligt glas, for 1750credits 
+4/17/2020 1:06:10 AM Product 120: 24 x 0,5 L sodavand uden pant, for 28800credits 
+4/17/2020 1:06:10 AM Product 121: Corona Extra & Franziskaner Dunk, for 1500credits 
+4/17/2020 1:06:10 AM Product 122: Budget kildevand incl. pant, for 600credits 
+4/17/2020 1:06:10 AM Product 123: F-dag, for 500credits 
+4/17/2020 1:06:10 AM Product 124: Fadøl i kande (2 L), for 6000credits 
+4/17/2020 1:06:10 AM Product 125: Snack, for 500credits 
+4/17/2020 1:06:10 AM Product 126: Konsulent for en aften, for 0credits 
+4/17/2020 1:06:10 AM Product 127:  Brød , for 500credits 
+4/17/2020 1:06:10 AM Product 128: F-LAN, for 4000credits 
+4/17/2020 1:06:10 AM Product 129: Cider , for 1500credits 
+4/17/2020 1:06:10 AM Product 130: Alkohol (Snaps/shots), for 10000credits 
+4/17/2020 1:06:10 AM Product 131: 1,5L vand excl. pant, for 1200credits 
+4/17/2020 1:06:10 AM Product 132: Kamstrup Foobar, for 0credits 
+4/17/2020 1:06:10 AM Product 133: FLAN Sandwich lørdag frokost, for 3500credits 
+4/17/2020 1:06:10 AM Product 134: FLAN Chili con Carne Fredag aften, for 5000credits 
+4/17/2020 1:06:10 AM Product 135: Monster, for 1200credits 
+4/17/2020 1:34:18 AM Product 1: Diverse, for 100credits 
+4/17/2020 1:34:18 AM Product 2: ½L Letmælk, for 450credits 
+4/17/2020 1:34:18 AM Product 3: ¼L Letmælk, for 250credits 
+4/17/2020 1:34:18 AM Product 4: ¼L Skummetmælk, for 225credits 
+4/17/2020 1:34:18 AM Product 5: ¼L Kærnemælk, for 225credits 
+4/17/2020 1:34:18 AM Product 6: ¼L Øko Letmælk, for 275credits 
+4/17/2020 1:34:18 AM Product 7: ¼L Øko Skummetmælk, for 250credits 
+4/17/2020 1:34:18 AM Product 8: ½L Skummetmælk (2x¼), for 375credits 
+4/17/2020 1:34:18 AM Product 9: 1L Letmælk, for 600credits 
+4/17/2020 1:34:18 AM Product 10: ½L Kærnemælk (2x¼), for 525credits 
+4/17/2020 1:34:18 AM Product 11: ½L vand & kildevand excl. pant, for 1200credits 
+4/17/2020 1:34:18 AM Product 12: ¼L Sodavand, for 500credits 
+4/17/2020 1:34:18 AM Product 13: Øl(f.eks. Thy, Guld, 47, T-FF), for 1000credits 
+4/17/2020 1:34:18 AM Product 14: Øl(Tuborg/Classic/Carlsberg/Rød), for 650credits 
+4/17/2020 1:34:18 AM Product 15: Øl(Staropramen, Corona, Budweis), for 1500credits 
+4/17/2020 1:34:18 AM Product 16: Cocio, for 1600credits 
+4/17/2020 1:34:18 AM Product 17: ½L Matilde cacao, for 1350credits 
+4/17/2020 1:34:18 AM Product 18: ¼L Øko Sødmælk, for 300credits 
+4/17/2020 1:34:18 AM Product 19: ½L Øko Skummet (2x¼), for 475credits 
+4/17/2020 1:34:18 AM Product 20: 150ml Cultura, for 600credits 
+4/17/2020 1:34:18 AM Product 21: 200ml Mathilde Cacao, for 275credits 
+4/17/2020 1:34:18 AM Product 22: 1 Flaske Rødvin, for 5000credits 
+4/17/2020 1:34:18 AM Product 23: 1 Flaske Hvidvin, for 2500credits 
+4/17/2020 1:34:18 AM Product 24: 150ml Yoghurt, for 600credits 
+4/17/2020 1:34:18 AM Product 25: ¼L Øko Sødmælk, for 275credits 
+4/17/2020 1:34:18 AM Product 26: Popcorn, for 500credits 
+4/17/2020 1:34:18 AM Product 27: Chips, for 1500credits 
+4/17/2020 1:34:18 AM Product 28: Saltstænger, for 600credits 
+4/17/2020 1:34:18 AM Product 29: Øl(Tuborg Jul/Påske), for 650credits 
+4/17/2020 1:34:18 AM Product 30: Jolt, for 1000credits 
+4/17/2020 1:34:18 AM Product 31: Pant (1/2L flaske), for 150credits 
+4/17/2020 1:34:18 AM Product 32: Kaffe/Choko(1 kop), for 300credits 
+4/17/2020 1:34:18 AM Product 33: dummyproduct, for 2000credits 
+4/17/2020 1:34:18 AM Product 34: Nestea, for 1300credits 
+4/17/2020 1:34:18 AM Product 35: kaffe - ansat, for 1125credits 
+4/17/2020 1:34:18 AM Product 36: kaffe - stud, for 750credits 
+4/17/2020 1:34:18 AM Product 37: ½L Vand incl. pant, for 1350credits 
+4/17/2020 1:34:18 AM Product 38: Juice, for 1200credits 
+4/17/2020 1:34:18 AM Product 39: Ansat KAFFE(1 kop), for 0credits 
+4/17/2020 1:34:18 AM Product 40: Frisk luft v. BSS, for 100credits 
+4/17/2020 1:34:18 AM Product 41: Snaps, for 10000credits 
+4/17/2020 1:34:18 AM Product 42: Limfjordsporter, for 900credits 
+4/17/2020 1:34:18 AM Product 43: ½L drikkecultura, for 1500credits 
+4/17/2020 1:34:18 AM Product 44: Søm, for 500credits 
+4/17/2020 1:34:18 AM Product 45: ¼L Mælk, for 275credits 
+4/17/2020 1:34:18 AM Product 46: F-Julefrokost, for 11100credits 
+4/17/2020 1:34:18 AM Product 47: Carlsberg 47, for 800credits 
+4/17/2020 1:34:18 AM Product 48: F-sportsdag, for 1500credits 
+4/17/2020 1:34:18 AM Product 49: Kandidat betaling, for 50000credits 
+4/17/2020 1:34:18 AM Product 50: Kandidatfest - gæst, for 15000credits 
+4/17/2020 1:34:18 AM Product 51:  Fyttetur , for 33300credits 
+4/17/2020 1:34:18 AM Product 52: Chokoladebar, for 1000credits 
+4/17/2020 1:34:18 AM Product 53: Fisherman, for 12000credits 
+4/17/2020 1:34:18 AM Product 54: Ale No. 16, for 950credits 
+4/17/2020 1:34:18 AM Product 55: Kort fyttetur - 2 dage, for 22200credits 
+4/17/2020 1:34:18 AM Product 56: FØLsmagning, for 10000credits 
+4/17/2020 1:34:18 AM Product 57: F-bog (Se E1-214), for 1500credits 
+4/17/2020 1:34:18 AM Product 58: Slik, Haribo, for 800credits 
+4/17/2020 1:34:18 AM Product 59: Rustfri stålvogn, for 250000credits 
+4/17/2020 1:34:18 AM Product 60: Indoor footballsæson, for 5000credits 
+4/17/2020 1:34:18 AM Product 61: F-acking, for 0credits 
+4/17/2020 1:34:18 AM Product 62: F-Klub krus, for 5000credits 
+4/17/2020 1:34:18 AM Product 63: Drink, for 2000credits 
+4/17/2020 1:34:18 AM Product 64: 1 flaske vin, for 3000credits 
+4/17/2020 1:34:18 AM Product 65: Fadøl - Tuborg/Classic, for 1300credits 
+4/17/2020 1:34:18 AM Product 66: Fadøl - Julebryg, for 2100credits 
+4/17/2020 1:34:18 AM Product 67: Poelse med broed, for 800credits 
+4/17/2020 1:34:18 AM Product 68: Fransk Hotdog, for 1000credits 
+4/17/2020 1:34:18 AM Product 69: Somersby/Xide, for 1500credits 
+4/17/2020 1:34:18 AM Product 70: Æblemost, for 500credits 
+4/17/2020 1:34:18 AM Product 71: Æblemost m. en enkelt, for 800credits 
+4/17/2020 1:34:18 AM Product 72: Æblemost m. dobbelt, for 1500credits 
+4/17/2020 1:34:18 AM Product 73: Island TILBUD!, for 50000credits 
+4/17/2020 1:34:18 AM Product 74: Adm Gebyr, for 2000credits 
+4/17/2020 1:34:18 AM Product 75: KB Juleøl (hvidtøl), for 450credits 
+4/17/2020 1:34:18 AM Product 76: F (oel), for 900credits 
+4/17/2020 1:34:18 AM Product 77: Fadøl i personligt glas, for 1500credits 
+4/17/2020 1:34:18 AM Product 78: Dåseøl (Guinness & Kilkenny), for 1650credits 
+4/17/2020 1:34:18 AM Product 79: Lager/Special/Elefant, for 1000credits 
+4/17/2020 1:34:18 AM Product 80: Feaster, for 4500credits 
+4/17/2020 1:34:18 AM Product 81: 2xJuleøl, for 1000credits 
+4/17/2020 1:34:18 AM Product 82: Limfjordsporter Fad, for 1700credits 
+4/17/2020 1:34:18 AM Product 83: Famlefest, for 30000credits 
+4/17/2020 1:34:18 AM Product 84: Special Hyttetur, for 12500credits 
+4/17/2020 1:34:18 AM Product 85: Øko Humle/Porse Guld/Øko Påske, for 1000credits 
+4/17/2020 1:34:18 AM Product 86: Æ Kas Kurwand, for 23100credits 
+4/17/2020 1:34:18 AM Product 87: Bingo Plader, for 1000credits 
+4/17/2020 1:34:18 AM Product 88: 3x Bingo Plader, for 2500credits 
+4/17/2020 1:34:18 AM Product 89: Burn Shot, for 1400credits 
+4/17/2020 1:34:18 AM Product 90: Fames, for 1000credits 
+4/17/2020 1:34:18 AM Product 91: Red Bull, for 1500credits 
+4/17/2020 1:34:18 AM Product 92: Cult Cola / Cult, for 1200credits 
+4/17/2020 1:34:18 AM Product 93: F-sportsdag + gris, for 5500credits 
+4/17/2020 1:34:18 AM Product 94: ØKO Humle, for 850credits 
+4/17/2020 1:34:18 AM Product 95: Tuborg Lime Cut, for 800credits 
+4/17/2020 1:34:18 AM Product 96: Schweppes Ginger Ale, for 550credits 
+4/17/2020 1:34:18 AM Product 97: Budget Juice (250 ml), for 400credits 
+4/17/2020 1:34:18 AM Product 98: Fastelavn, for 1500credits 
+4/17/2020 1:34:18 AM Product 99: BEO*/Copenhagen, for 1100credits 
+4/17/2020 1:34:18 AM Product 100: One EngergyDrink, for 900credits 
+4/17/2020 1:34:18 AM Product 101: X-Ray, for 700credits 
+4/17/2020 1:34:18 AM Product 102: F-Kult Meat Pie, for 4800credits 
+4/17/2020 1:34:18 AM Product 103: morgan + cola, for 500credits 
+4/17/2020 1:34:18 AM Product 104: Fadøl normal/påske (sw system), for 1100credits 
+4/17/2020 1:34:18 AM Product 105: Burn Energy, for 1500credits 
+4/17/2020 1:34:18 AM Product 106: Fragelse, for 6900credits 
+4/17/2020 1:34:18 AM Product 107: Vodka, for 500credits 
+4/17/2020 1:34:18 AM Product 108: Julemumme - Kongens Bryghus, for 3600credits 
+4/17/2020 1:34:18 AM Product 109: Jakobsen - Golden naked (Tilbud), for 1000credits 
+4/17/2020 1:34:18 AM Product 110: Carlsberg Christmas Ale, for 3100credits 
+4/17/2020 1:34:18 AM Product 111: Gratis FooBar, for 0credits 
+4/17/2020 1:34:18 AM Product 112: Ølkrus, for 2000credits 
+4/17/2020 1:34:18 AM Product 113: HARBOE - ½L Vand excl. pant, for 500credits 
+4/17/2020 1:34:18 AM Product 114: Juice 1,5L, for 1500credits 
+4/17/2020 1:34:18 AM Product 115: Kakao 1L, for 1000credits 
+4/17/2020 1:34:18 AM Product 116: Juice 1,5L, for 1200credits 
+4/17/2020 1:34:18 AM Product 117: Gin, for 500credits 
+4/17/2020 1:34:18 AM Product 118: FredagsFranskbrød, for 0credits 
+4/17/2020 1:34:18 AM Product 119: Fadøl(Jul) i personligt glas, for 1750credits 
+4/17/2020 1:34:18 AM Product 120: 24 x 0,5 L sodavand uden pant, for 28800credits 
+4/17/2020 1:34:18 AM Product 121: Corona Extra & Franziskaner Dunk, for 1500credits 
+4/17/2020 1:34:18 AM Product 122: Budget kildevand incl. pant, for 600credits 
+4/17/2020 1:34:18 AM Product 123: F-dag, for 500credits 
+4/17/2020 1:34:18 AM Product 124: Fadøl i kande (2 L), for 6000credits 
+4/17/2020 1:34:18 AM Product 125: Snack, for 500credits 
+4/17/2020 1:34:18 AM Product 126: Konsulent for en aften, for 0credits 
+4/17/2020 1:34:18 AM Product 127:  Brød , for 500credits 
+4/17/2020 1:34:18 AM Product 128: F-LAN, for 4000credits 
+4/17/2020 1:34:18 AM Product 129: Cider , for 1500credits 
+4/17/2020 1:34:18 AM Product 130: Alkohol (Snaps/shots), for 10000credits 
+4/17/2020 1:34:18 AM Product 131: 1,5L vand excl. pant, for 1200credits 
+4/17/2020 1:34:18 AM Product 132: Kamstrup Foobar, for 0credits 
+4/17/2020 1:34:18 AM Product 133: FLAN Sandwich lørdag frokost, for 3500credits 
+4/17/2020 1:34:18 AM Product 134: FLAN Chili con Carne Fredag aften, for 5000credits 
+4/17/2020 1:34:18 AM Product 135: Monster, for 1200credits 
+4/17/2020 1:43:23 AM Product 1: Diverse, for 100credits 
+4/17/2020 1:43:23 AM Product 2: ½L Letmælk, for 450credits 
+4/17/2020 1:43:23 AM Product 3: ¼L Letmælk, for 250credits 
+4/17/2020 1:43:23 AM Product 4: ¼L Skummetmælk, for 225credits 
+4/17/2020 1:43:23 AM Product 5: ¼L Kærnemælk, for 225credits 
+4/17/2020 1:43:23 AM Product 6: ¼L Øko Letmælk, for 275credits 
+4/17/2020 1:43:23 AM Product 7: ¼L Øko Skummetmælk, for 250credits 
+4/17/2020 1:43:23 AM Product 8: ½L Skummetmælk (2x¼), for 375credits 
+4/17/2020 1:43:23 AM Product 9: 1L Letmælk, for 600credits 
+4/17/2020 1:43:23 AM Product 10: ½L Kærnemælk (2x¼), for 525credits 
+4/17/2020 1:43:23 AM Product 11: ½L vand & kildevand excl. pant, for 1200credits 
+4/17/2020 1:43:23 AM Product 12: ¼L Sodavand, for 500credits 
+4/17/2020 1:43:23 AM Product 13: Øl(f.eks. Thy, Guld, 47, T-FF), for 1000credits 
+4/17/2020 1:43:23 AM Product 14: Øl(Tuborg/Classic/Carlsberg/Rød), for 650credits 
+4/17/2020 1:43:23 AM Product 15: Øl(Staropramen, Corona, Budweis), for 1500credits 
+4/17/2020 1:43:23 AM Product 16: Cocio, for 1600credits 
+4/17/2020 1:43:23 AM Product 17: ½L Matilde cacao, for 1350credits 
+4/17/2020 1:43:23 AM Product 18: ¼L Øko Sødmælk, for 300credits 
+4/17/2020 1:43:23 AM Product 19: ½L Øko Skummet (2x¼), for 475credits 
+4/17/2020 1:43:23 AM Product 20: 150ml Cultura, for 600credits 
+4/17/2020 1:43:23 AM Product 21: 200ml Mathilde Cacao, for 275credits 
+4/17/2020 1:43:23 AM Product 22: 1 Flaske Rødvin, for 5000credits 
+4/17/2020 1:43:23 AM Product 23: 1 Flaske Hvidvin, for 2500credits 
+4/17/2020 1:43:23 AM Product 24: 150ml Yoghurt, for 600credits 
+4/17/2020 1:43:23 AM Product 25: ¼L Øko Sødmælk, for 275credits 
+4/17/2020 1:43:23 AM Product 26: Popcorn, for 500credits 
+4/17/2020 1:43:23 AM Product 27: Chips, for 1500credits 
+4/17/2020 1:43:23 AM Product 28: Saltstænger, for 600credits 
+4/17/2020 1:43:23 AM Product 29: Øl(Tuborg Jul/Påske), for 650credits 
+4/17/2020 1:43:23 AM Product 30: Jolt, for 1000credits 
+4/17/2020 1:43:23 AM Product 31: Pant (1/2L flaske), for 150credits 
+4/17/2020 1:43:23 AM Product 32: Kaffe/Choko(1 kop), for 300credits 
+4/17/2020 1:43:23 AM Product 33: dummyproduct, for 2000credits 
+4/17/2020 1:43:23 AM Product 34: Nestea, for 1300credits 
+4/17/2020 1:43:23 AM Product 35: kaffe - ansat, for 1125credits 
+4/17/2020 1:43:23 AM Product 36: kaffe - stud, for 750credits 
+4/17/2020 1:43:23 AM Product 37: ½L Vand incl. pant, for 1350credits 
+4/17/2020 1:43:23 AM Product 38: Juice, for 1200credits 
+4/17/2020 1:43:23 AM Product 39: Ansat KAFFE(1 kop), for 0credits 
+4/17/2020 1:43:23 AM Product 40: Frisk luft v. BSS, for 100credits 
+4/17/2020 1:43:23 AM Product 41: Snaps, for 10000credits 
+4/17/2020 1:43:23 AM Product 42: Limfjordsporter, for 900credits 
+4/17/2020 1:43:23 AM Product 43: ½L drikkecultura, for 1500credits 
+4/17/2020 1:43:23 AM Product 44: Søm, for 500credits 
+4/17/2020 1:43:23 AM Product 45: ¼L Mælk, for 275credits 
+4/17/2020 1:43:23 AM Product 46: F-Julefrokost, for 11100credits 
+4/17/2020 1:43:23 AM Product 47: Carlsberg 47, for 800credits 
+4/17/2020 1:43:23 AM Product 48: F-sportsdag, for 1500credits 
+4/17/2020 1:43:23 AM Product 49: Kandidat betaling, for 50000credits 
+4/17/2020 1:43:23 AM Product 50: Kandidatfest - gæst, for 15000credits 
+4/17/2020 1:43:23 AM Product 51:  Fyttetur , for 33300credits 
+4/17/2020 1:43:23 AM Product 52: Chokoladebar, for 1000credits 
+4/17/2020 1:43:23 AM Product 53: Fisherman, for 12000credits 
+4/17/2020 1:43:23 AM Product 54: Ale No. 16, for 950credits 
+4/17/2020 1:43:23 AM Product 55: Kort fyttetur - 2 dage, for 22200credits 
+4/17/2020 1:43:23 AM Product 56: FØLsmagning, for 10000credits 
+4/17/2020 1:43:23 AM Product 57: F-bog (Se E1-214), for 1500credits 
+4/17/2020 1:43:23 AM Product 58: Slik, Haribo, for 800credits 
+4/17/2020 1:43:23 AM Product 59: Rustfri stålvogn, for 250000credits 
+4/17/2020 1:43:23 AM Product 60: Indoor footballsæson, for 5000credits 
+4/17/2020 1:43:23 AM Product 61: F-acking, for 0credits 
+4/17/2020 1:43:23 AM Product 62: F-Klub krus, for 5000credits 
+4/17/2020 1:43:23 AM Product 63: Drink, for 2000credits 
+4/17/2020 1:43:23 AM Product 64: 1 flaske vin, for 3000credits 
+4/17/2020 1:43:23 AM Product 65: Fadøl - Tuborg/Classic, for 1300credits 
+4/17/2020 1:43:23 AM Product 66: Fadøl - Julebryg, for 2100credits 
+4/17/2020 1:43:23 AM Product 67: Poelse med broed, for 800credits 
+4/17/2020 1:43:23 AM Product 68: Fransk Hotdog, for 1000credits 
+4/17/2020 1:43:23 AM Product 69: Somersby/Xide, for 1500credits 
+4/17/2020 1:43:23 AM Product 70: Æblemost, for 500credits 
+4/17/2020 1:43:23 AM Product 71: Æblemost m. en enkelt, for 800credits 
+4/17/2020 1:43:23 AM Product 72: Æblemost m. dobbelt, for 1500credits 
+4/17/2020 1:43:23 AM Product 73: Island TILBUD!, for 50000credits 
+4/17/2020 1:43:23 AM Product 74: Adm Gebyr, for 2000credits 
+4/17/2020 1:43:23 AM Product 75: KB Juleøl (hvidtøl), for 450credits 
+4/17/2020 1:43:23 AM Product 76: F (oel), for 900credits 
+4/17/2020 1:43:23 AM Product 77: Fadøl i personligt glas, for 1500credits 
+4/17/2020 1:43:23 AM Product 78: Dåseøl (Guinness & Kilkenny), for 1650credits 
+4/17/2020 1:43:23 AM Product 79: Lager/Special/Elefant, for 1000credits 
+4/17/2020 1:43:23 AM Product 80: Feaster, for 4500credits 
+4/17/2020 1:43:23 AM Product 81: 2xJuleøl, for 1000credits 
+4/17/2020 1:43:23 AM Product 82: Limfjordsporter Fad, for 1700credits 
+4/17/2020 1:43:23 AM Product 83: Famlefest, for 30000credits 
+4/17/2020 1:43:23 AM Product 84: Special Hyttetur, for 12500credits 
+4/17/2020 1:43:23 AM Product 85: Øko Humle/Porse Guld/Øko Påske, for 1000credits 
+4/17/2020 1:43:23 AM Product 86: Æ Kas Kurwand, for 23100credits 
+4/17/2020 1:43:23 AM Product 87: Bingo Plader, for 1000credits 
+4/17/2020 1:43:23 AM Product 88: 3x Bingo Plader, for 2500credits 
+4/17/2020 1:43:23 AM Product 89: Burn Shot, for 1400credits 
+4/17/2020 1:43:23 AM Product 90: Fames, for 1000credits 
+4/17/2020 1:43:23 AM Product 91: Red Bull, for 1500credits 
+4/17/2020 1:43:23 AM Product 92: Cult Cola / Cult, for 1200credits 
+4/17/2020 1:43:23 AM Product 93: F-sportsdag + gris, for 5500credits 
+4/17/2020 1:43:23 AM Product 94: ØKO Humle, for 850credits 
+4/17/2020 1:43:23 AM Product 95: Tuborg Lime Cut, for 800credits 
+4/17/2020 1:43:23 AM Product 96: Schweppes Ginger Ale, for 550credits 
+4/17/2020 1:43:23 AM Product 97: Budget Juice (250 ml), for 400credits 
+4/17/2020 1:43:23 AM Product 98: Fastelavn, for 1500credits 
+4/17/2020 1:43:23 AM Product 99: BEO*/Copenhagen, for 1100credits 
+4/17/2020 1:43:23 AM Product 100: One EngergyDrink, for 900credits 
+4/17/2020 1:43:23 AM Product 101: X-Ray, for 700credits 
+4/17/2020 1:43:23 AM Product 102: F-Kult Meat Pie, for 4800credits 
+4/17/2020 1:43:23 AM Product 103: morgan + cola, for 500credits 
+4/17/2020 1:43:23 AM Product 104: Fadøl normal/påske (sw system), for 1100credits 
+4/17/2020 1:43:23 AM Product 105: Burn Energy, for 1500credits 
+4/17/2020 1:43:23 AM Product 106: Fragelse, for 6900credits 
+4/17/2020 1:43:23 AM Product 107: Vodka, for 500credits 
+4/17/2020 1:43:23 AM Product 108: Julemumme - Kongens Bryghus, for 3600credits 
+4/17/2020 1:43:23 AM Product 109: Jakobsen - Golden naked (Tilbud), for 1000credits 
+4/17/2020 1:43:23 AM Product 110: Carlsberg Christmas Ale, for 3100credits 
+4/17/2020 1:43:23 AM Product 111: Gratis FooBar, for 0credits 
+4/17/2020 1:43:23 AM Product 112: Ølkrus, for 2000credits 
+4/17/2020 1:43:23 AM Product 113: HARBOE - ½L Vand excl. pant, for 500credits 
+4/17/2020 1:43:23 AM Product 114: Juice 1,5L, for 1500credits 
+4/17/2020 1:43:23 AM Product 115: Kakao 1L, for 1000credits 
+4/17/2020 1:43:23 AM Product 116: Juice 1,5L, for 1200credits 
+4/17/2020 1:43:23 AM Product 117: Gin, for 500credits 
+4/17/2020 1:43:23 AM Product 118: FredagsFranskbrød, for 0credits 
+4/17/2020 1:43:23 AM Product 119: Fadøl(Jul) i personligt glas, for 1750credits 
+4/17/2020 1:43:23 AM Product 120: 24 x 0,5 L sodavand uden pant, for 28800credits 
+4/17/2020 1:43:23 AM Product 121: Corona Extra & Franziskaner Dunk, for 1500credits 
+4/17/2020 1:43:23 AM Product 122: Budget kildevand incl. pant, for 600credits 
+4/17/2020 1:43:23 AM Product 123: F-dag, for 500credits 
+4/17/2020 1:43:23 AM Product 124: Fadøl i kande (2 L), for 6000credits 
+4/17/2020 1:43:23 AM Product 125: Snack, for 500credits 
+4/17/2020 1:43:23 AM Product 126: Konsulent for en aften, for 0credits 
+4/17/2020 1:43:23 AM Product 127:  Brød , for 500credits 
+4/17/2020 1:43:23 AM Product 128: F-LAN, for 4000credits 
+4/17/2020 1:43:23 AM Product 129: Cider , for 1500credits 
+4/17/2020 1:43:23 AM Product 130: Alkohol (Snaps/shots), for 10000credits 
+4/17/2020 1:43:23 AM Product 131: 1,5L vand excl. pant, for 1200credits 
+4/17/2020 1:43:23 AM Product 132: Kamstrup Foobar, for 0credits 
+4/17/2020 1:43:23 AM Product 133: FLAN Sandwich lørdag frokost, for 3500credits 
+4/17/2020 1:43:23 AM Product 134: FLAN Chili con Carne Fredag aften, for 5000credits 
+4/17/2020 1:43:23 AM Product 135: Monster, for 1200credits 

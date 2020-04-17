@@ -3,6 +3,7 @@ None of the text below is in ANY way necessary in order to use the program, as i
 
 - Seperation of code tasks:
 	I wanted to improve the seperation of logic as much as posible, so that the commandParser, will almost only call other methods, acting as a mediator for the rest of the logic
+	another example of this, would be the UserList, which is a static in the userclass instead of being an attribute in a class file, so it would belong to a singular "system". This could have been changed, if i had realised it earlier
 
 - More readable method calls:
 	I often found my self debating on whether i should convert a value in or before a method call, unfortunatly this, in my own opinion, was not implemented to a satisfactory degree

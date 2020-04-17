@@ -98,3 +98,4 @@
 4/16/2020 Purchase transaction 5 of Product Pant (1/2L flaske) For the amount of 150 was bought by User 6
 4/16/2020 Deposit 0: 1700 was inserted to 6
 4/16/2020 Purchase transaction 1 of Product Øl(Tuborg Jul/Påske) For the amount of 650 was bought by User 6
+4/17/2020 Deposit 0: 1700 was inserted to 6
